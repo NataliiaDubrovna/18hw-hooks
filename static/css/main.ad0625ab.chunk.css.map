@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/User/User.css"],"names":[],"mappings":"AAAA,MACI,oBACJ","file":"main.ad0625ab.chunk.css","sourcesContent":[".user{\r\n    border: red solid 1px;\r\n}"]}
